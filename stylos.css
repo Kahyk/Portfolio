@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(255, 255, 255);
+}
+td {
+  color: rgb(55, 65, 81);
+  padding: 10px;
+}
+th {
+  color: rgb(55, 65, 81);
+  padding: 10px;
+}
+table {
+  text-align: center;
+}
+h3 {
+  margin-top: 30px;/*espaço entre seções so acima dele*/
+  padding: 5px;
+  color: rgb(37, 99, 235);
+}
+.eu {
+  text-align: center;
+  color: rgb(30, 58, 138);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-bottom: 1px solid rgb(55, 65, 81);/*linha separadora*/
+}
+li {
+  margin: 2px;/*Serve para afastar elementos uns dos outros.*/
+  color: rgb(55, 65, 81);
+  background: rgb(205, 208, 215);
+  border-radius: 6px;/*bordas*/
+  padding: 5px;
+  text-align: center;
+}
+.sobre {
+  text-align: center;
+}
+p {
+  color: rgb(55, 65, 81);
+}
+footer {
+  border-top: 1px solid rgb(55, 65, 81);/*bordas acima do rodapé*/
+  margin-top: 40px;
+  padding-top: 15px;
+  text-align: center;
+}
