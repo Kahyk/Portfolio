@@ -12,14 +12,17 @@ th {
 }
 table {
   text-align: center;
+   width: 600px;
+  margin: auto;
 }
 h3 {
+  text-align: center;
   margin-top: 30px;/*espaço entre seções so acima dele*/
   padding: 5px;
   color: rgb(37, 99, 235);
 }
 .eu {
-  text-align: center;
+  
   color: rgb(30, 58, 138);
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   border-bottom: 1px solid rgb(55, 65, 81);/*linha separadora*/
@@ -36,6 +39,7 @@ li {
   text-align: center;
 }
 p {
+  text-align: center;
   color: rgb(55, 65, 81);
 }
 footer {
