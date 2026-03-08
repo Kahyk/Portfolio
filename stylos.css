@@ -33,10 +33,10 @@ h3 {
 
 /*container do cabeçalho*/
 .cabecalho{
-  display: flex; /*deixa os elementos lado a lado*/
-  align-items: center; /*alinha verticalmente*/
-  justify-content: center; /*centraliza tudo*/
-  gap: 20px; /*espaço entre foto e texto*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
 }
 
 li {
@@ -66,8 +66,9 @@ footer {
 
 /*foto de perfil*/
 .imagem{
-  width:120px; /*tamanho da imagem*/
-  height:120px;
-  object-fit: cover; /*evita distorcer a imagem*/
-  border-radius:50%; /*deixa a foto redonda*/
+  width: 120px; /* tamanho da imagem */
+  height: 120px;
+  object-fit: cover; /* evita distorção */
+  border-radius: 50%; /* deixa redonda */
 }
+
